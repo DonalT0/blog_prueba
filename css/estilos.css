@@ -3,7 +3,7 @@ body
     color: #333;
     text-align: left;
     font-family: "Arial";
-    font-size: 20px;
+    font-size: 16px;
 }
 #container
 {
@@ -15,5 +15,5 @@ body
 }
 #container h1
 {
-    font-size: 25px;
+    font-size: 20px;
 }
